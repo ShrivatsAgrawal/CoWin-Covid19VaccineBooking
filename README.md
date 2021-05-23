@@ -1,6 +1,6 @@
 # CowinVaccineBooking
 
-Free and equal access to technology to all.
+Free and equal access of technology to all.
 
 <strong>100%</strong> automated. Auto OTP filling and booking page captcha solving.
 
